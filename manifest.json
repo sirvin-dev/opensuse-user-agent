@@ -1,5 +1,5 @@
 {
-   "author": "PSSGCSim (Jan Schwarzrock), pssgcsim@gmail.com, Scott Irvin, sirvin@gmail.com",
+   "author": "PSSGCSim (Jan Schwarzrock), pssgcsim@gmail.com, Scott Irvin, sirvin.dev@gmail.com",
    "background": {
       "scripts": [ "background.js" ]
    },
