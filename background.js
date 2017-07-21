@@ -1,6 +1,7 @@
 /*
  * Copyright (C) 2015, 2016 Tomas Popela <tpopela@redhat.com>
  * Copyright (C) 2017 PSSGCSim (Jan Schwarzrock) <pssgcsim@gmail.com>
+ * Copyright (C) 2017 Scott Irvin <sirvin.dev@gmail.com>
  *
  * Licensed under the GNU General Public License Version 2
  *
