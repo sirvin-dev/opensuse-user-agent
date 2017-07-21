@@ -1,0 +1,10 @@
+openSUSE User Agent Extension for Chrome
+
+Based on previous work by Tomas Poplea <tpopela@redhat.com> and
+Jan Schwarzrock <pssgcsim@gmail.com>
+
+Simply adds the word "openSUSE" to your User Agent string, so 
+your distribution can be distinguished from other Linux users
+on the web.
+
+Is disabled on netflix.com and onenote.com.
